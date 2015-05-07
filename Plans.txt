@@ -1,0 +1,155 @@
+#####################################################################################################################
+#Locations
+#####################################################################################################################
+#The Great maze.
+Misdirection will be your guidance, through the path of avoiding violence.
+
+#The Door
+Behind the door lies a great light, a gift from the heavens, to vanish the endless night.
+A boon of life and unimaginable imagination. 
+But from the shadows, created of the light, came and arose powerful, creatures of the night. 
+So far underground the flower was taken, to be hid from the world, and all its creation.
+For with it the shadows followed, to rest until the world is hollow.
+
+#Notes
+To the tower came many folks, each with hope in their hearts and homes each farther away than the last.
+Some sought immortality, others the wealth of world.
+Nevertheless what the sought, great gifts of the heavens would be theirs.
+but so far none have claimed the heavens gift.
+For man made it so, and perhaps so it shall be.
+
+Some say that the flower projects dreams unto reality, and so the world is made so.
+
+What are these terrible things that roam this place? Demons?
+
+#Hall
+
+#Top floor
+Solens blomma hittade vi inte, men döden hittade oss istället.
+
+#Flower of the golden sun.
+Factum ex coeli
+
+#Flower of silver Moon
+Datus Luna
+#####################################################################################################################
+#Npc's
+#####################################################################################################################
+
+##########
+#The Merchant
+##########
+#Intro 1.0
+And the rest of you? You came here alone? Wow. That really takes some courage.
+Whom am I? The name doesn't matter since I can't remember it.
+Anyway. I bet you are here for the gift of celestial skies?
+Of course you are, why else. No one ever comes here for anything else. Except me, I think....
+I can help, I can provide you with the helpful items I have collected, for a fee of course.
+
+#Intro 1.0 outro
+I'll see you around i guess. If you survive that is.
+Oh, and by the time we meet again I'll come up with a name for myself.
+
+#misc
+#1.0
+If you want to know, there is a sentient talking flame somewhere around this place.
+He's friendly so don't worry.
+#1.1
+So you met the flame? was he as friendly as I said?
+Did he have a warm heart? Ha ha ha ha ha...
+
+#2.0
+Some say that this place was built to lure in and trap the greedy of the world.
+Perhaps that is true for most, but some have come here to bring back their lords or their kind and loved.
+If that is greed than I don't know who I am.
+#2.1
+But why would you.
+#2.2
+I Wonder what the folk-tales now say of this place, or perhaps its mention is taboo.
+
+#3.0
+When you are tired and looking for a shoulder you can cry on,
+won't you think about me?
+#3.1
+And when you find the flower,
+won't you think about me?
+
+#5.0
+Not long ago, I saw men with eyes as small as...
+They were small and they spoke a language I never heard before.
+They must have been rich though since most of them wore some sort of garb made of silk or part.
+
+#5.1
+They gave me this though.
+I don't know what it is. You take it, I have no use for it.
+(gives item of Chinese origin) 
+
+#6.0
+They say that there is a child from the cosmos, a kin of the celestial skies, resting in this very place.
+Whatever that means, I do not know. This place convolutes reality that much I know.
+
+#9.0
+Where I am from? well I don't remember so much about except that it was really warm during some periods,
+and that there was an ocean. Perhaps an island or a peninsula.
+
+#9.1
+Oh, what I miss the warmth.
+
+#10.0
+I have completely lost track of how long I have been here.
+Each group of hopeful souls that arrive, always looks different and more exotic than the last.
+Say? Does Rome still stand?
+And whom is this Lord in the clouds that all refer to?
+
+#10.1
+Am I immortal?  if so, what do you think happens if I leave this place?
+If I'm bound to this place, it wouldn't matter. I'm just glad that I live.
+Though alive, it can get boring sometimes.
+
+#####################################################################################################################
+#Items
+#####################################################################################################################
+##########
+#Weapons
+##########
+#Shields increase defence and projectile deflection but can infer penalties when used with certain weapons or weapon classes
+Shield - Hoplon
+Shield - Heater
+Shield - Norman 
+Shield - Viking Round
+Shield - Scutum 
+
+#Daggers have minimal damage but enhance damage and grappling skills and critical hits and back stabs.
+
+#Swords Enhance Grappling and parries and can be used with shield without penalty
+Sword - Falchion
+Sword - Scimitar
+Sword - Hand and a half 
+Sword - Arming
+Sword - 
+Sword - 
+Sword - 
+Sword - 
+Sword - 
+Sword - 
+
+#Two-handers have high damage but significantly decrease grappling damage and have less parry chance than swords.
+2hander - 
+2hander - 
+2hander - 
+2hander - 
+
+#Moderate damage and Enhances dodge chance, some can be used without penalty with shield
+Spear - 
+Spear - 
+Spear - 
+Spear - 
+Spear - 
+Spear - 
+Spear - 
+Spear - 
+Spear - 
+Spear - 
+
+
+##########
